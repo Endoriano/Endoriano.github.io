@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caccia di Diana</title>
+        <author>
+          <persName ref="#boccaccio">Giovanni Boccaccio</persName>
+        </author>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Edizione elettronica realizzata mediante codifica TEI P5.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Caccia di Diana</title>
+          <author>
+            <persName ref="#boccaccio">Giovanni Boccaccio</persName>
+          </author>
+          <date when="1334" cert="low">1334 circa</date>
+          <term type="genre">poemetto</term>
+          <textLang mainLang="it">italiano</textLang>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="it">Italiano</language>
+      </langUsage>
+
+      <particDesc>
+        <listPerson>
+          <person xml:id="boccaccio">
+            <persName>Giovanni Boccaccio</persName>
+          </person>
+
+          <person xml:id="mario-marti">
+            <persName>Mario Marti</persName>
+          </person>
+
+          <person xml:id="roberto-angio">
+            <persName>Roberto d'Angiò</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <div type="introduction">
+        <head>Caccia di Diana</head>
+
+        <p>
+          <title level="m">Caccia di Diana</title> è un poemetto in terzine di
+          <persName ref="#boccaccio">Giovanni Boccaccio</persName>.
+        </p>
+
+        <p>
+          Non si conosce la datazione precisa del poema anche se la critica la
+          attribuisce con sicurezza al periodo napoletano, quindi tra le prime
+          opere del giovane Boccaccio. Secondo
+          <persName ref="#mario-marti">Mario Marti</persName> l'opera è stata
+          <q>composta intorno al 1334 o poco dopo, quando cioè l'autore aveva
+          appena superato i suoi vent'anni</q>.
+        </p>
+      </div>
+
+      <div type="section" xml:id="struttura">
+        <head>Struttura dell'opera</head>
+
+        <p>
+          Il poema è strutturato in diciotto canti composti da cinquantotto
+          versi, tranne il terzo che ne è composto da sessantuno ed è il
+          risultato della mescolanza di diversi tipi della letteratura latina
+          medievale e della letteratura volgare di quel periodo.
+        </p>
+      </div>
+
+      <div type="section" xml:id="trama">
+        <head>Trama</head>
+
+        <p>
+          La narrazione è fatta in prima persona e il poema inizia con la
+          descrizione della primavera. Mentre il protagonista sta pensando come
+          fare per ripararsi dai colpi d'amore che possono amareggiare il cuore,
+        </p>
+
+        <quote>
+          <lg type="terzina">
+            <l>Nel tempo adorno che l'erbette nove</l>
+            <l>rivestono ogni prato e l'aere chiaro</l>
+            <l>ride per la dolcezza che 'l ciel move,</l>
+          </lg>
+          <lg type="terzina">
+            <l>sol pensando mi stava che riparo</l>
+            <l>potessi fare ai colpi che forando</l>
+            <l>mi gian d'amor il cuor con duolo amaro;</l>
+          </lg>
+          <lg>
+            <l>quando mi parve udir venir chiamando</l>
+            <l>un spirito gentil volando forte</l>
+          </lg>
+        </quote>
+
+        <p>
+          viene distolto da una voce che, in modo soave, chiama ad unirsi le
+          donne della corte di <name type="deity">Diana</name>. Arrivano le
+          donne più belle della corte di
+          <persName ref="#roberto-angio">Roberto d'Angiò</persName> che vengono
+          tutte nominate tranne l'ultima alla quale viene dato l'incarico di
+          guida.
+        </p>
+
+        <quote>
+          <lg type="terzina">
+            <l>Ma quella donna cui <name type="deity">Amore</name> onora</l>
+            <l>più ch'altra per la sua somma virtute,</l>
+            <l>che tutte l'altre accresce e rinvigora,</l>
+          </lg>
+          <lg type="terzina">
+            <l>fu l'ultima chiamata, e per salute</l>
+            <l>dell'altre, quasi com'una guardiana,</l>
+            <l>avanti gio per guidarle tute...</l>
+          </lg>
+        </quote>
+
+        <p>
+          Le donne, dopo essersi raccolte intorno alla dea, si dividono in
+          gruppi e iniziano la caccia che viene descritta per quattordici canti.
+          Quando giunge il mezzogiorno, <name type="deity">Diana</name> dà
+          l'ordine di sospendere la caccia e invita le donne a riposarsi e a
+          rendere sacrifici a <name type="deity">Giove</name>.
+        </p>
+
+        <p>
+          Ma l'ultima donna dichiara di preferire fare sacrifici in onore di
+          <name type="deity">Venere</name> e invoca la dea che appare e,
+          riconoscente per la fedeltà a lei dimostrata dalle donne, fa apparire
+          dalle fiamme del rogo approntato per i sacrifici alcuni giovani
+          allegri e piacenti.
+        </p>
+
+        <p>
+          A chiusura del poema chi legge viene a conoscenza che la voce narrante
+          appartiene a quella di un cervo che sarà trasformato da
+          <name type="deity">Venere</name> in una creatura umana e offerto alla
+          donna.
+        </p>
+
+        <quote>
+          <lg>
+            <l>... mi ritrovai di quel mantel coperto</l>
+            <l>che gli altri usciti dello ardente agone;</l>
+            <l>e vidimi alla bella donna offerto,</l>
+            <l>e di cervio mutato in creatura</l>
+            <l>umana e razionale esser per certo</l>
+          </lg>
+        </quote>
+      </div>
+
+      <div type="section" xml:id="tematica">
+        <head>Tematica</head>
+
+        <p>
+          Il tema che viene sviluppato nell'opera è quello del contrasto tra
+          castità e amore e della forza di quest'ultimo che riesce a tramutare
+          l'uomo da animale dotato solo d'istinto in un essere dotato anche di
+          intelligenza.
+        </p>
+
+        <p>
+          La tematica affrontata dall'autore e che verrà riproposta nel
+          <title level="m">Decameron</title> e nell'
+          <title level="m">Amorosa visione</title>, è ripresa da
+          <persName>Omero</persName> e <persName>Ovidio</persName> oltre che
+          dai romanzi degli ellenistici, come
+          <persName>Achille Tazio</persName> e
+          <persName>Senofonte Efesio</persName>, e da quelli cortesi.
+        </p>
+      </div>
+
+    </body>
+  </text>
+</TEI>

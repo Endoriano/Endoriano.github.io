@@ -1,0 +1,119 @@
+/* FONTS */
+/* normal */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+/* body*/
+body {
+  color: blue;
+  font-size: 17px;
+  margin: 0;
+  height: 100%;
+}
+
+/* navigation bar */
+.topnav {
+  background-color: blue;
+  overflow: hidden;
+  font-size: 25px;
+}
+
+.topnav a {
+  color: #f2f2f2;
+  display: block;
+  float: left;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.topnav .active {
+  color: #000;
+  background-color: #ddd;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* dropdown menu */
+
+.dropdown1 {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown1 .dropbtn1 {
+  font-size: 25px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown1:hover .dropbtn1 {
+  background-color: gray;
+}
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content1 a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content1 a:hover {
+  background-color: #ddd;
+}
+
+.dropdown1:hover .dropdown-content1 {
+  display: block;
+}
+
+span { 
+  font-weight: bold
+
+}
+
+span1 {
+  color: black;
+  font-family:calibri;
+  font-size:80%;
+  text-align:"justify"
+}
+
+#metadati1 { 
+  font-size: 21px;
+
+}
+
+.testata {
+  background-color: rgba(45, 45, 45, 0.5);
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+p  { 
+  font-size: 20pt;
+}
+
+
+

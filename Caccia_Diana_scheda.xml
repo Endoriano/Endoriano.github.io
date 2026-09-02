@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <dcterms:title>Caccia di Diana</dcterms:title>
+
+    <dcterms:creator>Giovanni Boccaccio</dcterms:creator>
+
+    <dcterms:date xsi:type="dcterms:W3CDTF">1334</dcterms:date>
+
+    <dcterms:type>Text</dcterms:type>
+
+    <dcterms:format>text/xml</dcterms:format>
+
+    <dcterms:language xsi:type="dcterms:RFC5646">it</dcterms:language>
+
+    <dcterms:subject>Letteratura italiana medievale</dcterms:subject>
+    <dcterms:subject>Poemetto</dcterms:subject>
+    <dcterms:subject>Amore</dcterms:subject>
+    <dcterms:subject>Castità</dcterms:subject>
+    <dcterms:subject>Mitologia classica</dcterms:subject>
+
+    <dcterms:description>
+        Caccia di Diana è un poemetto in terzine attribuito al periodo
+        napoletano della produzione giovanile di Giovanni Boccaccio.
+        L'opera, articolata in diciotto canti, sviluppa il contrasto
+        tra castità e amore attraverso le figure di Diana e Venere.
+    </dcterms:description>
+
+    <dcterms:coverage>Italia</dcterms:coverage>
+
+    <dcterms:temporal>Medioevo, XIV secolo</dcterms:temporal>
+
+    <dcterms:spatial>Napoli</dcterms:spatial>
+
+    <dcterms:relation>Decameron</dcterms:relation>
+    <dcterms:relation>Amorosa visione</dcterms:relation>
+
+    <dcterms:references>Omero</dcterms:references>
+    <dcterms:references>Ovidio</dcterms:references>
+    <dcterms:references>Achille Tazio</dcterms:references>
+    <dcterms:references>Senofonte Efesio</dcterms:references>
+
+    <dcterms:rights>
+        Metadati prodotti a fini didattici e di ricerca.
+    </dcterms:rights>
+
+</metadata>
