@@ -7,4 +7,4 @@ in particolare si vuole mostrare, oltre alle 4 opere scritte da Boccaccio durant
 Nel sito è presente una pagina con una mappa di Napoli in cui è possibile cliccare gli edifici archittettonici legati all'autore toscano per approfondimenti.
 Tra i file principali, oltre a quattro pagine .html si annoverano file di dataset degli item, di metadatazione ed analisi in XML (con DC, DCTERMS e TEI), nonché immagini necessarie al layout del sito.
 
-https://Endoriano/Endoriano.github.io/
+https://Endoriano.github.io/
